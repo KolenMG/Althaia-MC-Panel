@@ -115,7 +115,7 @@ java -Xmx2G -Xms1G -jar server.jar nogui
 cd ~
 
 # Clone the repository
-git clone https://github.com/kolenmg/althaia-mc-panel.git
+git clone https://github.com/KolenMG/Althaia-MC-Panel.git
 cd althaia-mc-panel
 
 # Install Node.js dependencies

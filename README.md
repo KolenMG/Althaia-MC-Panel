@@ -16,6 +16,7 @@
 
 ## 📋 Features
 
+
 - 🎮 **Start/Stop/Kill** server controls
 - 📊 **Real-time monitoring** - CPU, RAM, and uptime statistics
 - 💬 **Live console output** - See server logs in real-time
@@ -642,8 +643,8 @@ If you find this project helpful, please consider:
 
 ## 📞 Contact
 
-- **GitHub**: [@YourUsername](https://github.com/yourusername)
-- **Issues**: [Report a bug](https://github.com/yourusername/althaia-mc-panel/issues)
+- **GitHub**: [@KolenMG](https://github.com/KolenMG)
+- **Issues**: [Report a bug](https://github.com/KolenMG/althaia-mc-panel/issues)
 
 ---
 
